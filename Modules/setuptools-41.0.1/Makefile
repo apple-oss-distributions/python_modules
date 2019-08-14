@@ -1,5 +1,5 @@
 NAME = setuptools
-VERSION = 18.5
+VERSION = 41.0.1
 
 SETUPARGS = --install-scripts=/usr/bin
 

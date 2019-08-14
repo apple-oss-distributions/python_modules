@@ -1,5 +1,5 @@
-NAME = six
-VERSION = 1.4.1
+NAME = pyOpenSSL
+VERSION = 19.0.0
 
 include ../Makefile.inc
 

@@ -2,15 +2,15 @@
         <key>OpenSourceProject</key>
         <string>setuptools</string>
         <key>OpenSourceVersion</key>
-        <string>18.5</string>
+        <string>41.0.1</string>
         <key>OpenSourceWebsiteURL</key>
         <string>http://pypi.python.org/pypi/setuptools</string>
         <key>OpenSourceURL</key>
-        <string>https://pypi.python.org/packages/source/s/setuptools/setuptools-18.5.tar.gz#md5=533c868f01169a3085177dffe5e768bb</string>
+        <string>https://files.pythonhosted.org/packages/1d/64/a18a487b4391a05b9c7f938b94a16d80305bf0369c6b0b9509e86165e1d3/setuptools-41.0.1.zip</string>
         <key>OpenSourceImportDate</key>
-        <string>2015-11-11</string>
-        <key>OpenSourceMD5</key>
-        <string>533c868f01169a3085177dffe5e768bb</string>
+        <string>2019-05-29</string>
+        <key>OpenSourceSHA256</key>
+        <string>a222d126f5471598053c9a77f4b5d4f26eaa1f150ad6e01dcf1a42e185d05613</string>
         <key>OpenSourceLicense</key>
         <string>PSFL</string>
         <key>OpenSourceLicenseFile</key>

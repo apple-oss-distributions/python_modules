@@ -1,5 +1,5 @@
 NAME = cryptography
-VERSION = 2.6.1
+VERSION = 3.3.2
 
 include ../Makefile.inc
 

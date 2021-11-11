@@ -1,7 +1,10 @@
 NAME = cryptography
-VERSION = 2.9.2
+VERSION = 3.3.2
 
 include ../Makefile.inc
+
+custompatching:
+	( cd $(DIR) ; patch -p1 ) < cryptography-build-with-libressl-3.3.2.patch
 
 postinstall:
 	cp -f $(DIR)/LICENSE.APACHE $(OSL)/$(NAME)-$(VERSION).txt

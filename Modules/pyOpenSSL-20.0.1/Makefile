@@ -1,5 +1,5 @@
 NAME = pyOpenSSL
-VERSION = 19.0.0
+VERSION = 20.0.1
 
 include ../Makefile.inc
 
